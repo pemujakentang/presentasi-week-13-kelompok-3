@@ -1,0 +1,11 @@
+.btn-secondary {
+ color: #000;
+}
+
+.btn-secondary:hover {
+ color: #00a8ff;
+}
+
+a.active button {
+ color: #00a8ff;
+}

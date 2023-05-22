@@ -1,0 +1,23 @@
+ul li a button {
+ color: #000;
+}
+
+ul li a button:hover {
+ color: #00a8ff;
+}
+
+ul li a.active button {
+ color: #00a8ff;
+}
+
+.home button{
+    color: #000;
+}
+
+.home button:hover {
+    color: #00a8ff;
+}
+
+.home.active button {
+    color: #00a8ff;
+}
